@@ -59,7 +59,7 @@ Deep-dive into risk trends and indicators across the portfolio.
 
 ## 📄 Full Report
 
-👉 [View Full PDF Report](Credit_Card_Risk_Analysis.pdf)
+👉 [View Full PDF Report]([Credit_Card_Risk_Analysis.pdf](https://github.com/glengala/Credit-Card-Risk-Analysis-Dashboard/blob/main/credit%20risk%20project.pdf))
 
 ---
 

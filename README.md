@@ -82,8 +82,4 @@ Deep-dive into risk trends and indicators across the portfolio.
 - **Dataset** — [UCI Machine Learning Repository — Default of Credit Card Clients]
   (https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients)
 
----
 
-## 👤 Author
-Your Name
-[LinkedIn](#) | [Portfolio](#)

@@ -27,12 +27,12 @@ before risk materialises** — rather than reacting after defaults occur.
 High-level overview of portfolio performance including key metrics and 
 overall risk exposure.
 
-![Summary Page](screenshots/summary_page.png)
+![Summary Page](Overview.jpg)
 
 ### 2. Delinquency Risk Analysis
 Deep-dive into risk trends and indicators across the portfolio.
 
-![Delinquency Risk Analysis](screenshots/delinquency_dashboard.png)
+![Delinquency Risk Analysis](Credit_Risk_Analysis.jpg)
 
 #### Key Insights:
 - 📈 **Delinquency rate grew from 4.89% to 11.30%** between Apr–Sep 2005, 

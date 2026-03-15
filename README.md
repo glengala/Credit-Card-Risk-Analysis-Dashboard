@@ -59,16 +59,16 @@ Deep-dive into risk trends and indicators across the portfolio.
 
 ## 📄 Full Report
 
-👉 [View Full PDF Report]([Credit_Card_Risk_Analysis.pdf](https://github.com/glengala/Credit-Card-Risk-Analysis-Dashboard/blob/main/credit%20risk%20project.pdf))
+👉 [Credit_Card_Risk_Analysis.pdf](https://github.com/glengala/Credit-Card-Risk-Analysis-Dashboard/blob/main/credit%20risk%20project.pdf)
 
 ---
 
 ## 🛠️ Tools Used
 
-- **Power BI Desktop** — Dashboard design and visualisation
-- **DAX** — Custom measures and calculated columns
-- **Power Query** — Data transformation and bucketing
-- **Dataset** — [UCI Machine Learning Repository — Default of Credit Card Clients]
+- **Power BI Desktop** - Dashboard design and visualisation
+- **DAX** - Custom measures and calculated columns
+- **Power Query** - Data transformation and bucketing
+- **Dataset** - [UCI Machine Learning Repository — Default of Credit Card Clients]
   (https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients)
 
 
